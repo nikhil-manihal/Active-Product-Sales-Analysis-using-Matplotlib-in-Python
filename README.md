@@ -7,7 +7,7 @@ Analyzed product sales data using Python to identify customer purchasing pattern
   <ul>
   <li>Python</li>
   <li><b>Libraries:</b> Pandas, Matplotlib</li>
-  <li><b>IDE:</b> Visual Studio Code</li>
+  <li><b>IDE:</b>Windsurf</li>
 </ul>
 
 <hr style="height:2px; background-color:black;">
