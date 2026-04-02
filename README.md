@@ -10,6 +10,7 @@ Analyzed product sales data using Python to identify customer purchasing pattern
   <li><b>IDE:</b> Visual Studio Code</li>
 </ul>
 
+<hr style="height:2px; background-color:black;">
 
 <h2>🚀 Features</h2>
 <ul>
@@ -19,6 +20,7 @@ Analyzed product sales data using Python to identify customer purchasing pattern
   <li>Graphical visualization of results</li>
 </ul>
 
+<hr style="height:2px; background-color:black;">
 
 <h2>🔄 Data Preprocessing</h2>
 <ul>
@@ -28,6 +30,7 @@ Analyzed product sales data using Python to identify customer purchasing pattern
   <li>Cleaned and structured data for analysis</li>
 </ul>
 
+<hr style="height:2px; background-color:black;">
 
 <h2>📈 Visualizations Data Preprocessing</h2>
 <ul>
@@ -35,6 +38,7 @@ Analyzed product sales data using Python to identify customer purchasing pattern
   <li>Clear representation of peak and low sales periods</li>
 </ul>
 
+<hr style="height:2px; background-color:black;">
 
 <h2>🔍 Key Insights </h2>
 Identified peak sales hours during the day
