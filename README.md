@@ -32,7 +32,7 @@ Analyzed product sales data using Python to identify customer purchasing pattern
 
 <hr style="height:2px; background-color:black;">
 
-<h2>📈 Visualizations Data Preprocessing</h2>
+<h2>📈 Visualizations</h2>
 <ul>
   <li>Line graph showing number of orders per hour</li>
   <li>Clear representation of peak and low sales periods</li>
